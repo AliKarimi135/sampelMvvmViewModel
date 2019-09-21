@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Firebase" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="AvailableLibraryUpdateStorage">
+    <last-search-timestamp>1563693392526</last-search-timestamp>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0829424b-de5a-49d8-a955-94b803a7c06c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/activity/order/OrderActivityVM.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/activity/order/OrderActivityVM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/activity/order/OrderAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/activity/order/OrderAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/fragment/main/HomeFragVM.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/fragment/main/HomeFragVM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/fragment/myOrder/ChildOrderDetailsFrag.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/fragment/myOrder/ChildOrderDetailsFrag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/fragment/myOrder/OrderFragViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/fragment/myOrder/OrderFragViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/fragment/myOrder/OrderFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/fragment/myOrder/OrderFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/fragment/myOrder/OrderSingelton.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/fragment/myOrder/OrderSingelton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/model/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/register/CityAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/register/CityAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/profile_item_recycle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/profile_item_recycle.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/fragment/main/HomeFragVM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3349">
+              <caret line="233" column="99" selection-start-line="233" selection-start-column="99" selection-end-line="233" selection-end-column="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/profile_item_recycle.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+      

@@ -1,0 +1,62 @@
+package com.sepehran.siane.activity.list;
+
+
+import android.app.Activity;
+import android.content.Intent;
+import androidx.databinding.Bindable;
+import androidx.databinding.BindingAdapter;
+import android.os.Bundle;
+import android.util.Log;
+
+import androidx.recyclerview.widget.DefaultItemAnimator;
+import androidx.recyclerview.widget.GridLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
+
+import com.sepehran.configs.baseviewmodel.activities.ActivityViewModel;
+import com.sepehran.siane.BR;
+import com.sepehran.siane.R;
+import com.sepehran.siane.activity.order.OrderActivity;
+import com.sepehran.siane.databinding.ItemListBinding;
+
+import com.sepehran.siane.publics.PublicAdapterBinding;
+
+import java.util.ArrayList;
+import java.util.List;
+
+
+public class ListActivityVM extends ActivityViewModel<ListActivity> {
+
+    private static Bundle savedInstanceState;
+    private static Activity context;
+    private List<ListModelBinding> arraylist = new ArrayList<>();
+    private static int sharevalve = -1;
+
+
+    @Bindable
+    public List<ListModelBinding> getArraylist() {
+        return arraylist;
+    }
+
+    public void setArraylist(List<ListModelBinding> listModelBindings) {
+        this.arraylist = listModelBindings;
+        notifyPropertyChanged(BR.arraylist);
+    }
+
+    public ListActivityVM(ListActivity activity, Bundle savedInstanceState) {
+        super(activity);
+        context = getActivity();
+        this.savedInstanceState = savedInstanceState;
+        setArraylist((List<ListModelBinding>) context.getIntent().getExtras().getSerializable("LISTITEM"));
+        sharevalve = context.getIntent().getExtras().getInt("VALVE",-1);
+
+
+    }
+
+
+
+    @BindingAdapter({"setupRecyclerList"})
+    public static void setupRecyclerList(final RecyclerView view, final List<ListModelBinding> arrayList) {
+        GridLayoutManager layoutManager = new GridLayoutManager(context, 1, GridLayoutManager.VERTICAL, false);
+        view.setHasFixedSize(true);
+        view.setItemAnimator(new DefaultItemAnimator());
+        view.setLayoutManager(layoutMan

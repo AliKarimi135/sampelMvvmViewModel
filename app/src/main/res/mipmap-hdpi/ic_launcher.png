@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Firebase" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="AvailableLibraryUpdateStorage">
+    <last-search-timestamp>1563693392526</last-search-timestamp>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0829424b-de5a-49d8-a955-94b803a7c06c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/activity/order/OrderActivityVM.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/activity/order/OrderActivityVM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/activity/order/OrderAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/activity/order/OrderAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/fragment/main/HomeFragVM.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/fragment/main/HomeFragVM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/fragment/myOrder/ChildOrderDetailsFrag.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/fragment/myOrder/ChildOrderDetailsFrag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/fragment/myOrder/OrderFragViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/fragment/myOrder/OrderFragViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/fragment/myOrder/OrderFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/fragment/myOrder/OrderFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/fragment/myOrder/OrderSingelton.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/fragment/myOrder/OrderSingelton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/model/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/sepehran/siane/register/CityAdapter.java" beforeDir="false" afterPath="$PR
